@@ -37,7 +37,7 @@ int main() {
 }
 
 /*
-PS C:\Users\DELL\Desktop\C++> .\l7.exe
+PS C:\Users\DELL\Desktop\C++> .\P2.exe
 Enter the number of elements: 5
 Enter 5 elements: 4
 3
